@@ -5,6 +5,14 @@ and also reading and writing libraries and playlists with XML and JSON. I've inc
 
 The assignment also includes two sample music libraries - one in XML and one in JSON. Please feel free to modify or extend the format of these files to fit the needs of your application.
 
+This homework will be graded using specifications grading. There are a sequence of tasks to complete. Grades will be assigned as follows:
+
+    To receive a C, you should complete tasks 1-4
+    To receive a B, complete all the C-level tasks, plus tasks 5.
+    To receive an A, complete the B-level tasks, plus tasks 6 and 7.
+
+
+
 I've provided the instructions at a higher level than in some homeworks, and left you some decisions about how to meet the requirements. You can choose how to best solve these tasks using the concepts and tools we've learned about. Please provide a JUnit class(es) that demonstrate how your program works.
 
 1. To begin, read in music-library.xml using the DOM parser and fill in the library, creating a Song, Artist or Album for each appropriate node.
